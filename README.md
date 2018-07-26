@@ -34,7 +34,11 @@ Here are some people you should follow who are either part of the ENS team or ar
 - [Rebecca Liebert](http://beccaliebert.com/) - Graphic designer, working on a new UI for ENS
 - [Virgil Griffith| @gvirgilgr](https://twitter.com/virgilgr) - Executive Director for True Names
 - [Ghilia Weldesselasie| @ghiliweld](https://twitter.com/ghiliweld) - Founder of Mimo and genius extraordinaire
-
+- [Jim McDonald](https://twitter.com/orinocopay) - Active contributor of ENS gitter channel.
+- [Daniel Ellison](https://twitter.com/zigguratt) - Createor of [lll version](https://github.com/zigguratt/lll-ens) of ENS smart contractor
+- [Alex Van de Sande](https://twitter.com/avsa) - One of the original contributors of ENS project.
+- [J. Maurelian](https://twitter.com/maurelian_) - One of the original [ENS specification](https://github.com/ethereum/EIPs/issues/162) authors 
+- [Brett Sun](https://twitter.com/sohkai) - One of contributors of [A package manager built on top of ENS](https://github.com/aragon/aragonOS/blob/dev/contracts/apm/APMRegistry.sol)
 
 ---
 
