@@ -16,6 +16,11 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 ## Projects
 - [Mimo](https://github.com/D-OZ/tokenless) - Decentralized Online Profiles
+- [ENS Now](https://now.ens.domains/) - Get ENS Subdomains
+- [ENS Listing](https://enslisting.com/) - Search, buy and rent ENS domains + get ENS subdomains
+- [ENS Manager](https://manager.ens.domains/) - Manage your ENS domains forward and reverse resolvers
+- [MyCrypto ENS](https://mycrypto.com/ens/) - Auction and Manage ENS domains
+- [ENS Nifty](https://ensnifty.com/) - Trade your ENS domain as an NFT
 
 ## Resources
 - [Introduction to the Ethereum Name Service](https://medium.com/the-ethereum-name-service/introduction-to-the-ethereum-name-service-6db378c27fed) - An introductory blog post to the ENS by Chris Remus, Project Manager at ENS.
