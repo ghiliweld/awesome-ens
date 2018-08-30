@@ -15,7 +15,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 
 ## Projects
-- [Mimo](https://github.com/D-OZ/tokenless) - Decentralized Online Profiles
+- [Mimo](https://github.com/ethmimo) - Decentralized Online Profiles
 - [ENS Now](https://now.ens.domains/) - Get ENS Subdomains
 - [ENS Listing](https://enslisting.com/) - Search, buy and rent ENS domains + get ENS subdomains
 - [ENS Manager](https://manager.ens.domains/) - Manage your ENS domains forward and reverse resolvers
